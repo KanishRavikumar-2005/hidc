@@ -1,0 +1,12 @@
+//Do not delete the 3 lines after this
+Pull|Mouse && Keyboard|
+Sys.Access|
+Waiter[]
+
+
+Presskeys[|win|, |r|]
+type[|cmd|]
+press[|enter|]
+wait[1]
+type[|start chrome /k youtu.be/dQw4w9WgXcQ|]
+press[|enter|]
