@@ -1,1 +1,12 @@
+//Do not delete the 3 lines after this
+Pull|Mouse && Keyboard|
+Sys.Access|
+Waiter[]
 
+Presskeys[|win|,|r|]
+type[|cmd|]
+press[|enter|]
+wait[1]
+For i withIn range[100]:
+    type[f|mkdir newfile{i}|]
+    press[|enter|]mkdir newfile30
