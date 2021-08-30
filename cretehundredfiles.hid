@@ -10,3 +10,5 @@ wait[1]
 For i withIn range[100]:
     type[f|mkdir newfile{i}|]
     press[|enter|]mkdir newfile30
+
+//note, only way to stop is by force fully quitting the app, not recommended to do it
